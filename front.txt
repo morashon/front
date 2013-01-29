@@ -9,8 +9,8 @@ _NOACTOR:
 {time=15}
 
 {hold=99}
-~~~~~~~~~~~~~~ Morashon ~~~~~~~~~~~~~~
-The Open Source Musical! 
+~~~~~~~~~~~~~~ Morashon ~~~~~~~~~~~~~~~
+****** The Open Source Musical! *******
 "TextMovie" release 0.01
 www.morashon.com
 ~
