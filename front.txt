@@ -1,0 +1,17 @@
+{hold=99}
+=============== WARNING ================
+The material you are about to experience is licensed under a Creative Commons Attribution 3.0 Unported license. Anyone can copy, distribute, or transmit this work to anyone, for any reason. If you like it, pass it on.  You can also remix, reinterpret, extend, and adapt this work, for commercial or non-commercial use, as long as you give appropriate credit and attribution to the original creators.  Find out more at www.creativecommons.org.
+
+{hold=15}
+_NOACTOR:
+(you can fast forward!)
+
+{time=15}
+
+{hold=99}
+~~~~~~~~~~ Morashon ~~~~~~~~~~~ 
+The Open Source Musical! 
+"TextMovie" release 0.01
+www.morashon.com
+
+{time=27}
