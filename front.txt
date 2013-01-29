@@ -11,6 +11,7 @@ _NOACTOR:
 {hold=99}
 ~~~~~~~~~~~~~~ Morashon ~~~~~~~~~~~~~~
 ********************* A Musical **********************
+~
 "TextMovie" release 0.01
 www.morashon.com
 ~
