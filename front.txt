@@ -18,6 +18,8 @@ www.morashon.com
 This area will have stage directions and cinematic notes.
 
 _NOACTOR:
+~
+~
 This area will show the dialogue and song lyrics.
 
 {time=27}
